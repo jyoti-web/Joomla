@@ -100,3 +100,6 @@ class JConfig {
 	public $cookie_path = '';
 	public $asset_id = '1';
 }
+
+//user joomla
+//password joomla123
